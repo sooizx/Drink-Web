@@ -2,17 +2,17 @@
 body{
     height: 100%;
     background-image: url("https://images.unsplash.com/photo-1542365887-1149961dccc7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80");
-    background-size: 100%;
+    background-size: 150%;
 }
 *{
     border: 0.5px solid rgba(255, 0, 0, 3);
     font-family: 微軟正黑體;
-    color:#FFFFFF
+    color:#FFFFFF;
 
 }
        
 #box{
-    background-color: aquamarine;
+    /* background-color: aquamarine; */
     height: 500px;
 }
 
@@ -20,9 +20,10 @@ body{
     font-size: 2em;
 }
 nav a{
-    border-bottom: #FFFFFF;
-    padding:10px 0;
+    border-bottom: 1.5px solid #000;
+    padding: 10px 0;
 }
 a{
-    text-decoration: black
+    text-decoration: navy;
+
 }
