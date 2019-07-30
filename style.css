@@ -5,7 +5,7 @@ body{
     background-size: 150%;
 }
 *{
-    border: 0.5px solid rgba(255, 0, 0, 3);
+    border: 0.5px solid rgba(255, 0, 0, 0.3);
     font-family: 微軟正黑體;
     color:#FFFFFF;
 
@@ -20,7 +20,7 @@ body{
     font-size: 2em;
 }
 nav a{
-    border-bottom: 1.5px solid #000;
+    border-bottom: 1.5px solid #FFFFFF;
     padding: 10px 0;
 }
 a{
